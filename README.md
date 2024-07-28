@@ -13,8 +13,10 @@ Welcome to the Tic-Tac-Toe App! This app is a simple yet engaging implementation
 ## Screenshots
 
 Here are some screenshots of the app in action:
-![screenshot-1](https://github.com/user-attachments/assets/7a9c1ee6-3d89-4da9-b2f5-69314225dc55)
-![screenshot-2](https://github.com/user-attachments/assets/49c39b8b-8d18-4d8b-9833-98902147baf3)
+
+<img src="https://github.com/user-attachments/assets/7a9c1ee6-3d89-4da9-b2f5-69314225dc55" alt="Screenshot 1" width="300"/>
+<img src="https://github.com/user-attachments/assets/49c39b8b-8d18-4d8b-9833-98902147baf3" alt="Screenshot 1" width="300"/>
+
 
 
 ## Installation
